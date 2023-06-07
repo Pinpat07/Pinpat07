@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinpat07", "Pinpat07\Pinpat07.csproj", "{78777050-E8DD-4667-8C0F-A436391AED87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78777050-E8DD-4667-8C0F-A436391AED87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78777050-E8DD-4667-8C0F-A436391AED87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78777050-E8DD-4667-8C0F-A436391AED87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78777050-E8DD-4667-8C0F-A436391AED87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E50E5A25-8876-4423-AE12-E704A16DCFE2}
+	EndGlobalSection
+EndGlobal
